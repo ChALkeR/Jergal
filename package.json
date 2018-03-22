@@ -1,6 +1,6 @@
 {
   "name": "jergal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tells why you shouldn't use a specific npm module version",
   "main": "index.js",
   "scripts": {},
