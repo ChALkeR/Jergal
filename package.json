@@ -1,0 +1,31 @@
+{
+  "name": "jergal",
+  "version": "1.0.0",
+  "description": "Tells why you shouldn't use a specific npm module version",
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "author": {
+    "name": "Nikita Skovoroda",
+    "email": "chalkerx@gmail.com",
+    "url": "https://github.com/ChALkeR"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChALkeR/Jergal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChALkeR/Jergal/issues"
+  },
+  "files": [
+    "lib/**.js",
+    "index.js"
+  ],
+  "dependencies": {
+    "semver": "^5.5.0",
+    "swg-vulnerabilities": "^1.0.3"
+  }
+}
