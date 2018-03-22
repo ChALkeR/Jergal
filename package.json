@@ -25,6 +25,7 @@
     "index.js"
   ],
   "dependencies": {
+    "node-fetch": "^2.1.1",
     "semver": "^5.5.0",
     "swg-vulnerabilities": "^1.1.0"
   }
