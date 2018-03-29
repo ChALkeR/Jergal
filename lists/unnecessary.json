@@ -1,6 +1,5 @@
 {
   "is-array": [{
-    "type": "unnecessary",
     "title": "is-array is a trivial polyfill to Array.isArray which is supported everywhere since IE 9"
   }]
 }
