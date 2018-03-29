@@ -1,5 +1,23 @@
 {
   "is-array": [{
     "title": "is-array is a trivial polyfill to Array.isArray which is supported everywhere since IE 9"
+  }],
+  "is-function": [{
+    "title": "use `typeof fn === 'function'` instead, browsers from IE 9 / Safari 9 are fine"
+  }],
+  "homedir-polyfill": [{
+    "title": "os.homedir() is supported since io.js v2.3.0 and Node.js 4.0.0"
+  }],
+  "os-homedir": [{
+    "title": "os.homedir() is supported since io.js v2.3.0 and Node.js 4.0.0"
+  }],
+  "os-tmpdir": [{
+    "title": "os.tmpdir() is supported since Node.js v0.9.9, and in current variant — since io.js v2.0.0 / Node.js 4.0.0"
+  }],
+  "fs-access": [{
+    "title": "fs.access() is supported since Node.js v0.11.15"
+  }],
+  "debug-log": [{
+    "title": "util.debuglog() is supported since Node.js v0.11.3"
   }]
 }
