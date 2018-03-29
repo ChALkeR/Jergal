@@ -4,6 +4,6 @@
 
 ```js
 const Jergal = require('jergal');
-await Jergal.init();
-console.log(Jergal.check('request', '2.56.0'));
+const jergal = await Jergal.create();
+console.log(jergal.check('request', '2.56.0'));
 ```
