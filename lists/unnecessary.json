@@ -19,5 +19,8 @@
   }],
   "debug-log": [{
     "title": "util.debuglog() is supported since Node.js v0.11.3"
+  }],
+  "is-thirteen": [{
+    "title": "have you tried just comparing to 13?"
   }]
 }
